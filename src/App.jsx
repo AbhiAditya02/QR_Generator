@@ -1,5 +1,5 @@
 import React from 'react'
-import QRGenerator from './QRGenerator'
+import QRGenerator from './Pages/QRGenerator'
 
 const App = () => {
     return (
